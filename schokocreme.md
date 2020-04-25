@@ -4,7 +4,7 @@ Ein kurzes Rezept für leckere Schokocreme
 
 *vegan, vegetarian, nuts*
 
-**400g**
+**450g**
 
 ---
 
