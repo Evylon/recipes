@@ -9,7 +9,7 @@ Ein kurzes Rezept für leckere Schokocreme
 ---
 
 - *200g* gehobelte Haselnüsse
-- *250g* Zartbitterschokolade oder Kuvertüre
+- *200g* Zartbitterschokolade oder Kuvertüre
 - *2 EL* Öl (z.B. Raps)
 - *4 EL* Puderzucker
 - *3 Tropfen* Vanille-Extrakt
@@ -23,4 +23,4 @@ Ein kurzes Rezept für leckere Schokocreme
     - Unter Umständen zwischendurch den Blender stoppen und die Masse von den Wänden abkratzen
 - Öl, Puderzucker und das Vanille-Extrakt in den Blender zugeben und weiter mixen
 - Zuletzt die geschmolzene Schokolade dazugeben und weiter blenden, bis eine glatte Creme entstanden ist
-- Die Creme in ein Glas füllen und im Kühlschrank aufbewaren
+- Die Creme in ein Glas füllen (im Kühlschrank) abkühlen lassen und bei Zimmertemperatur aufbewaren
