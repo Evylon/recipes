@@ -31,3 +31,4 @@ Eine deftige Pfanne mit cremiger Soße.
 - Tofu und Zwiebeln zu den Pilzen und Bohnen dazugeben und mit dem Brühegemisch ablöschen.
 - Falls die Soße nicht cremig genug ist, mit Sepisestärke weiter andicken.
 - Aufkochen, mit Salz und Pfeffer abschmecken.
+- gekochte Kartoffeln vorsichtig dazugeben und servieren
